@@ -1,0 +1,25 @@
+body {
+    background-color:bisque;
+}
+
+.nav-link {
+    color: #F07316 !important;
+}
+
+.nav-item .active {
+    background-color: #F07316 !important;
+    color: white !important;
+}
+
+button, #submit-button {
+    background-color: #F07316 !important;
+    color: white !important;
+}
+button .nav-link {
+    color: white !important;
+}
+
+.container-text {
+    background-color: white;
+    border: 0.5mm solid black;
+}
